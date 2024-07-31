@@ -10,7 +10,7 @@ Whether you're interested in data-driven decision-making or simply exploring the
 
 Explore the projects included in this repository:
 
-### 🚲Bike Sales Analysis
+### 🚲[Bike Sales Analysis](https://github.com/tsenyun/Excel/blob/main/Excel%20Project%20-%20Bike%20Sales.xlsx)
 
 **Description:**  
 A comprehensive analysis of a dataset containing 1,026 bike sales. The project focuses on data cleaning, analysis, and visualization to extract key business insights.
@@ -20,7 +20,7 @@ A comprehensive analysis of a dataset containing 1,026 bike sales. The project f
   - Identified and corrected inconsistencies in the dataset.
   - Standardized data formats for accurate analysis.
 - **Data Analysis:**  
-  - Created pivot tables to summarize and explore data.
+  - Created **pivot tables** to summarize and explore data.
   - Designed a visualization dashboard to present key metrics and trends.
 - **Visualization:**  
   - Developed charts and graphs to highlight sales trends, customer demographics, and product performance.
@@ -28,7 +28,7 @@ A comprehensive analysis of a dataset containing 1,026 bike sales. The project f
 **Usage:**  
 This project is useful for understanding sales patterns and customer behavior in the bike market. The visualization dashboard provides a quick overview of key metrics, making it an essential tool for business analysis and decision-making.
 
-### 📈Pivot Table Task
+### 📈[Pivot Table Task](https://github.com/tsenyun/Excel/blob/main/Pivot%20Table%20Task.xlsx)
 
 **Description:**  
 An in-depth pivot table analysis of a dataset with 1,227 entries. This project involves answering specific business-related questions using Excel's powerful pivot table functionality.
