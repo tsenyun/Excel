@@ -2,7 +2,9 @@
 
 ## 🔎Introduction
 
-Welcome to my Excel Projects Repository! This repository showcases a range of Excel projects designed to analyze and visualize data. Each project highlights different functionalities and demonstrates my proficiency in using Excel for data cleaning, analysis, and visualization. Whether you're interested in data-driven decision-making or simply exploring the capabilities of Excel, these projects offer valuable insights.
+Welcome to my Excel Projects Repository! This repository showcases a range of Excel projects designed to analyze and visualize data.  
+Each project highlights different functionalities and demonstrates my proficiency in using Excel for data cleaning, analysis, and visualization.  
+Whether you're interested in data-driven decision-making or simply exploring the capabilities of Excel, these projects offer valuable insights.
 
 ## 💡Project List
 
